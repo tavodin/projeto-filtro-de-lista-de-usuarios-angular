@@ -22,7 +22,7 @@ import { PipesModule } from "../pipes/pipes.module";
     exports: [
         UserDetailsComponent,
         FilterComponent,
-        UsersListComponent
+        UsersListComponent,
     ]
 })
 export class ComponentsModule { }
